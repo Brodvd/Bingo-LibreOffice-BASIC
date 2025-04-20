@@ -8,6 +8,3 @@ If anyone wants the original file go on the link above.
 # Installing
 The file can be download directly on the list of this page. 
 There are two version, one in italian and one in english.
-# Future version
-For this game I don't think that I will make and enveloper a new version.
-
